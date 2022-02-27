@@ -1,0 +1,41 @@
+{
+   "headers":{
+      "received":"by mail-vk1-f176.google.com with SMTP id h1so2207304vkh.0        for <66dc00932c0594f74297@cloudmailin.net>; Wed, 08 Dec 2021 10:40:24 -0800",
+      "date":"Wed, 08 Dec 2021 11:40:14 -0700",
+      "from":"\"Liam D. Gray\" <liamdgray@gmail.com>",
+      "to":"fast-ocean <66dc00932c0594f74297@cloudmailin.net>",
+      "message_id":"<CAOQQt4P5hDucY_xYsJdWRN__vY+8cjhZyjtpMPMhxOp3b56hiA@mail.gmail.com>",
+      "in_reply_to":"<CAOQQt4P1CMnQkS7wFdau5H5iK6FnaeCmRR8kgWEKgGPR5LmAoQ@mail.gmail.com>",
+      "references":"<0100017d95f4a1ba-0284bca2-bec2-41b3-89ac-15fb3c6b071b-000000@email.amazonses.com> <CAOQQt4P1CMnQkS7wFdau5H5iK6FnaeCmRR8kgWEKgGPR5LmAoQ@mail.gmail.com>",
+      "subject":"Fwd: New Job!",
+      "mime_version":"1.0",
+      "content_type":"multipart/alternative; boundary=000000000000a3cbd605d2a6d284",
+      "dkim_signature":"v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;        bh=fpbxwo9rohn0nJffAZ2ijOoAdQ2jj0QQRS6amFN4HYQ=;        b=H1a+JgEhocxtnDH+it8dC1J9N5lZ9CAVAnXEGusIoUeaSxIQUolFEq8i5VzFu9yIac         u2SjlJrM0r8IsFo+Kp7Azg0xfGK3JQcT2ciZ1QUoqL2CE1sPBdWB2l5vgvFb0WBk7lIj         HyVLBrnyhI2UeDp7CA/4VinAHr5HEKvNADl3fwX0HNsk9gq7GkmBf5kQVZviEA4+mDtd         L86pD3sm0J8kmtM8rjXbwujOrmFt/uS9IUV49TVSEjiLI/aQZ9P9cAywe4JcVetn9oiA         913UR2wTQpXqvt1XhEHrv58njuY/eiMYUB4lxYsQfihN3WxiD52OISSvOlp04zizLi5p         k8xw==",
+      "x_google_dkim_signature":"v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:mime-version:references:in-reply-to:from:date         :message-id:subject:to;        bh=fpbxwo9rohn0nJffAZ2ijOoAdQ2jj0QQRS6amFN4HYQ=;        b=ZwJZfCUPBuxoC5Sa8vgG6utylLCfsMQouDxTrdleIYHk5E7ecjpsDwaYEe/RME1VOV         aoGlMW8eVi0tQTjkavE73KR0LBKAOB+J1ou3dm7v3IXIrDJU3tzPRiChy7rTzvE1etqI         s0kEB7Pgn/PsD16mCXJ3Xmi1UjYI+v7iswjhLGfQxkuZWy6k/a8C3LoxeY4zigUMhHch         LFLlZrEfuWGlWu/MraikczrtY73h9QX+J6c6dzJN1TpzSUNuIWtlTiDMB5/2hAYOM0GS         DuK61OSXjQXcnJOO2HGZtDUCx8EoZTF7H6DarOPRfxaduDY2O4J4vS2r+FcX3Mw05ueI         Z4Kg==",
+      "x_gm_message_state":"AOAM530BVT/VMs02+Q77xpbh+dk4ztJ3wtOqv7hK2WCU86BHlifejR/V\t1w+aam4h5DZ5jfN+69TJT+c8W7HAM6ZcaejHRTj8A8xOe9g=",
+      "x_google_smtp_source":"ABdhPJwKPl9YcNZgYSY4aD5rYxOlpcB7GzrP5NGXhor7OBV6cZH4hYMmHIdupzg7jQ+YrTLEoGmlrhEWug0QobulfsY=",
+      "x_received":"by 2002:a05:6122:178b:: with SMTP id o11mr568012vkf.17.1638988823906; Wed, 08 Dec 2021 10:40:23 -0800 (PST)"
+   },
+   "envelope":{
+      "to":"66dc00932c0594f74297@cloudmailin.net",
+      "recipients":[
+         "66dc00932c0594f74297@cloudmailin.net"
+      ],
+      "from":"liamdgray@gmail.com",
+      "helo_domain":"mail-vk1-f176.google.com",
+      "remote_ip":"209.85.221.176",
+      "tls":true,
+      "tls_cipher":"TLSv1.3",
+      "md5":"eba4a44e6b97590a9b731c3eae6ec58a",
+      "spf":{
+         "result":"neutral",
+         "domain":"gmail.com"
+      }
+   },
+   "plain":"A new job is available:\r\n\r\n*When: *Fri, 2/4 7:00am - 2:15pm\r\n*District: *Tucson USD\r\n*Location: *PUEBLO UNIVERSITY HIGH\r\n*Position: *E PHYSICS\r\n*Employee: *Allen, Jacob\r\n\r\nclick here to book! <https://www.subalert.com/eb/9NnUc/Y8UCUA>\r\n\r\n----------------------------------\r\n\r\nClick here to *TURN OFF* future email job alerts\r\n<https://www.subalert.com/account/email_alerts/disable/152544/otCypMVsMIT8B4iN0QBIt8gDHn3IOFq8AX0XWL_x>\r\n\r\nPlease Note: SubAlert not affiliated with Frontline Education™ or your\r\nschool district in any way. We are an independent, 3rd party service.\r\n",
+   "html":"<div dir=\"ltr\"><div class=\"gmail_quote\"><div dir=\"ltr\"><div class=\"gmail_quote\"><div dir=\"ltr\" class=\"gmail_attr\">A new job is available:<br></div><br>\r\n\r\n\r\n<b>When: </b>Fri, 2/4 7:00am - 2:15pm<br>\r\n<b>District: </b>Tucson USD<br>\r\n<b>Location: </b>PUEBLO UNIVERSITY HIGH<br>\r\n<b>Position: </b>E PHYSICS<br>\r\n<b>Employee: </b>Allen, Jacob<br>\r\n\r\n<br>\r\n<a href=\"https://www.subalert.com/eb/9NnUc/Y8UCUA\" target=\"_blank\">click here to book!</a>\r\n<br>\r\n<br>\r\n----------------------------------<br>\r\n<br>\r\n<a style=\"color:red\" href=\"https://www.subalert.com/account/email_alerts/disable/152544/otCypMVsMIT8B4iN0QBIt8gDHn3IOFq8AX0XWL_x\" target=\"_blank\">\r\nClick here to <b>TURN OFF</b> future email job alerts</a><br>\r\n<br>\r\n<font face=\"Arial\" color=\"Gray\" size=\"1\">\r\nPlease Note: SubAlert not affiliated with Frontline Education™ or your school district in any way. We are an independent, 3rd party service.\r\n</font>\r\n</div></div>\r\n</div></div>\r\n",
+   "reply_plain":"None",
+   "attachments":[
+      
+   ]
+}

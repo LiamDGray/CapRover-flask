@@ -14,7 +14,7 @@ def index():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    app.run(debug=True, port=80)
 
     # Here you can pass any parameters you want.
     # It will not affect the application work.
